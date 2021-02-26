@@ -1,7 +1,7 @@
 body {
   color: #fff;
   font: 87.5%/1.5em 'Open Sans', sans-serif;
-	background:url(img/bg.jpg)no-repeat center center fixed; 
+	background:url(img/bgi.jpg)no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -52,11 +52,11 @@ h3{
 
 }
 input[type='password']{
-	background: transparent url("img/pass.jpg") no-repeat;
+	background: yellow url("img/pass.jpg") no-repeat;
 	background-position: 10px 50%;
 }
 input[type='text']{
-	background: transparent url("img/user.jpg") no-repeat;
+	background: yellow url("img/user.jpg") no-repeat;
 	background-position: 10px 50%;
 
 }
