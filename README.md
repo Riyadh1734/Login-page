@@ -1,3 +1,4 @@
 # Login-page
 Login form using PHP
-![logins](https://user-images.githubusercontent.com/59993047/109340075-bc05ff00-7892-11eb-96a8-7ef354048c14.PNG)
+![login page image](https://user-images.githubusercontent.com/59993047/109377950-eab6c080-78f8-11eb-9548-53caef696d56.PNG)
+
