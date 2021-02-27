@@ -47,6 +47,7 @@
   <div class="reminder">
     <p>Not a member? <a href="#">Sign up now</a></p>
     <p><a href="#">Forgot password?</a></p>
+    <p>©Copyright reserved 2021 by Riyadh Ahmed</p>
   </div>
   
 </div>
